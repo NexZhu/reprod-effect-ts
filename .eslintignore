@@ -1,0 +1,7 @@
+*.sql
+prisma/schema.prisma
+prisma/refract
+scripts/openfga
+generated
+vendor
+node_modules
